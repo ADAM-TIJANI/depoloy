@@ -1,4 +1,6 @@
 body{
+    display: flex;
+    justify-content: center;
     background-color:  rgb(255, 197, 4);
 }
 .container{
@@ -24,7 +26,8 @@ box-shadow: 8px 8px;
 #content{
     width: 100px;
     height: 40px;
-    border: orange;
+    border-radius: 5px solid orange;
+    border-radius: 5px;
     font-size: large;
     margin-left: 30px;
     background-color: rgb(255, 197, 4);
