@@ -1,0 +1,62 @@
+body{
+    background-color:  rgb(255, 197, 4);
+}
+.container{
+background-color: rgb(252, 252, 249);
+justify-content: center;
+width: 400px;
+height: 600px;
+margin-top: 20px;
+border-radius: 10px;
+box-shadow: 8px 8px;
+}
+.container:hover{
+    box-shadow: 12px 12px;
+    background: rgb(116, 212, 250);
+}
+#photo{
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 197, 4);;
+}
+#content{
+    width: 100px;
+    height: 40px;
+    border: orange;
+    font-size: large;
+    margin-left: 30px;
+    background-color: rgb(255, 197, 4);
+}
+#content:hover{
+    background: none;
+}
+.text{
+    margin-left: 30px;
+    font-size: larger;
+}
+.main{
+    margin-left: 30px;
+}
+.last{
+    margin-left: 30px;
+    font-size: large;
+}
+.info{
+    margin-left: 20px;
+    font-size: larger;
+}
+.profile{
+    margin-left: 25px;
+    margin-top: 30px;
+    display: inline;
+}
+#Hooper h3{
+    margin-left: 25%;
+    margin-top: -40px;
+}
+
+
+
+
